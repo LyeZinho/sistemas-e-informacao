@@ -1,0 +1,11 @@
+{
+  "name": "trab-mod-12",
+  "version": "1.0.0",
+  "description": "trab mod 12",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "LyePedro",
+  "license": "MIT"
+}
